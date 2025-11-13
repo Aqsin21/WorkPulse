@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WorkPulse.API/WorkPulse.API.csproj" />
+  <Project Path="WorkPulse.BLL/WorkPulse.BLL.csproj" />
+  <Project Path="WorkPulse.DAL/WorkPulse.DAL.csproj" />
+</Solution>

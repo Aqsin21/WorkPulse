@@ -1,0 +1,28 @@
+# Build ve derleme dosyaları
+bin/
+obj/
+
+# Kullanıcı ayar dosyaları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE klasörleri
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.log
+*.tmp
+*.cache
+*.pid
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Gizli bilgiler
+appsettings.Development.json
+appsettings.json
+.env
