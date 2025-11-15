@@ -11,10 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\WorkPulse.BLL\WorkPulse.BLL.csproj" />
     <ProjectReference Include="..\WorkPulse.DAL\WorkPulse.DAL.csproj" />
   </ItemGroup>
 
