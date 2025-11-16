@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DC33FF7E-8F92-3A9A-F80B-B2366D2BB7CA}|WorkPulse.API\\WorkPulse.API.csproj|c:\\users\\hp\\desktop\\workpulse\\workpulse\\workpulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC33FF7E-8F92-3A9A-F80B-B2366D2BB7CA}|WorkPulse.API\\WorkPulse.API.csproj|solutionrelative:workpulse.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC33FF7E-8F92-3A9A-F80B-B2366D2BB7CA}|WorkPulse.API\\WorkPulse.API.csproj|c:\\users\\hp\\desktop\\workpulse\\workpulse\\workpulse.api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC33FF7E-8F92-3A9A-F80B-B2366D2BB7CA}|WorkPulse.API\\WorkPulse.API.csproj|solutionrelative:workpulse.api\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914C6DE8-9410-A13E-4EEA-5BA3466E988C}|WorkPulse.DAL\\WorkPulse.DAL.csproj|c:\\users\\hp\\desktop\\workpulse\\workpulse\\workpulse.dal\\datacontext\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914C6DE8-9410-A13E-4EEA-5BA3466E988C}|WorkPulse.DAL\\WorkPulse.DAL.csproj|solutionrelative:workpulse.dal\\datacontext\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.DAL\\Migrations\\20251115151416_Secon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WorkPulse.DAL\\Migrations\\20251115151416_Secon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,58 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "WorkPulse.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "WorkPulse.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:21:44.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.DAL\\DataContext\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "WorkPulse.DAL\\DataContext\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.DAL\\DataContext\\Entities\\Employee.cs",
-              "RelativeToolTip": "WorkPulse.DAL\\DataContext\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:16:58.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.API\\Dtos\\Auth\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "WorkPulse.API\\Dtos\\Auth\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.API\\Dtos\\Auth\\RegisterDto.cs",
-              "RelativeToolTip": "WorkPulse.API\\Dtos\\Auth\\RegisterDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:16:47.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20251115151416_Secon.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.DAL\\Migrations\\20251115151416_Secon.cs",
-              "RelativeDocumentMoniker": "WorkPulse.DAL\\Migrations\\20251115151416_Secon.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.DAL\\Migrations\\20251115151416_Secon.cs",
-              "RelativeToolTip": "WorkPulse.DAL\\Migrations\\20251115151416_Secon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:14:16.565Z",
-              "EditorCaption": ""
             }
           ]
         },

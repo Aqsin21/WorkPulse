@@ -19,6 +19,7 @@ namespace WorkPulse.API.Controllers
         {
             _userManager = userManager;
             _signInManager = signInManager;
+            _tokenService = tokenService;
 
         }
         [HttpPost("register")]
@@ -54,7 +55,7 @@ namespace WorkPulse.API.Controllers
             if (!user.IsActive) return Unauthorized("Account wait Admin approval");
 
             var result = await _signInManager.CheckPasswordSignInAsync(user, dto.Password, false);
-            if (result.Succeeded) return Unauthorized("Invalid Login Attempt");
+            if (!result.Succeeded) return Unauthorized("Invalid Login Attempt");
 
             var token = _tokenService.CreateToken(user);
             return Ok(new { token });
