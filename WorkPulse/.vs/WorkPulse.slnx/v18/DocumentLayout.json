@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{914C6DE8-9410-A13E-4EEA-5BA3466E988C}|WorkPulse.DAL\\WorkPulse.DAL.csproj|c:\\users\\hp\\desktop\\workpulse\\workpulse\\workpulse.dal\\datacontext\\entities\\worklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914C6DE8-9410-A13E-4EEA-5BA3466E988C}|WorkPulse.DAL\\WorkPulse.DAL.csproj|solutionrelative:workpulse.dal\\datacontext\\entities\\worklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151D6CCE-E5E6-3FD9-4590-FCDE03A35133}|WorkPulse.BLL\\WorkPulse.BLL.csproj|c:\\users\\hp\\desktop\\workpulse\\workpulse\\workpulse.bll\\services\\concrete\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151D6CCE-E5E6-3FD9-4590-FCDE03A35133}|WorkPulse.BLL\\WorkPulse.BLL.csproj|solutionrelative:workpulse.bll\\services\\concrete\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkLog.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.DAL\\DataContext\\Entities\\WorkLog.cs",
+              "RelativeDocumentMoniker": "WorkPulse.DAL\\DataContext\\Entities\\WorkLog.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.DAL\\DataContext\\Entities\\WorkLog.cs",
+              "RelativeToolTip": "WorkPulse.DAL\\DataContext\\Entities\\WorkLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T17:14:12.123Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -18,6 +40,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.BLL\\Services\\Concrete\\SalaryService.cs",
+              "RelativeDocumentMoniker": "WorkPulse.BLL\\Services\\Concrete\\SalaryService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\WorkPulse\\WorkPulse\\WorkPulse.BLL\\Services\\Concrete\\SalaryService.cs",
+              "RelativeToolTip": "WorkPulse.BLL\\Services\\Concrete\\SalaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T17:13:33.089Z",
+              "EditorCaption": ""
             }
           ]
         },
